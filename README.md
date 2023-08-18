@@ -22,7 +22,7 @@
   <img src="Insurance_Bottom_5_rows.png" width="80%" alt="accessibility text">
 </p>
 
-#### :high_brightness:  Calculate Correlation
+#### :high_brightness:  Calculate Correlation. Age and Insurance charge has positive correlation of 0.3, but not perfectly positive correlation. So any changes in Age will have effect on the insurance charges.
 <p align="center">
   <img src="Insurance_data_Correlation.png" width="80%" alt="accessibility text">
 </p>
@@ -43,12 +43,12 @@
   <img src="Insurance_Bar.png" width="80%" title="hover text">
 </p>
 
-#### :high_brightness:  Correlation hitmap - between key observations. Age and Insurance charge has positive correlation of 0.3, but not perfect positive correlation. So changes in Age will effect the insurance charge. 
+#### :high_brightness:  Correlation hitmap - between key observations. Age and Insurance charge has positive correlation of 0.3, but not perfectly positive correlation. So any changes in Age will have effect on the insurance charges. 
 <p align="center">
   <img src="Insurance_Hitmap.png" width="80%" alt="accessibility text">
 </p>
 
-#### :high_brightness:  Bar Plot. Number of insurance charges per Age group, BMI,  
+#### :high_brightness:  Bar Plot. Number of insurance charges per Age Group, BMI Group, No of Children Group, and Charges Group  
 <p align="center">
   <img src="Insurance_Histogram.png" width="80%" alt="accessibility text">
 </p>
