@@ -38,17 +38,17 @@
 </p>
 
 ### :mag_right: Key Findings:
-#### :high_brightness:  Average insurance charge per region
+#### :high_brightness:  Following Bar Chart shows average insurance charge per region. Southeast region has the highest insurnace charge on average. 
 <p align="center">
   <img src="Insurance_Bar.png" width="80%" title="hover text">
 </p>
 
-#### :high_brightness:  Correlation hitmap - between key observations
+#### :high_brightness:  Correlation hitmap - between key observations. Age and Insurance charge has positive correlation of 0.3, but not perfect positive correlation. So changes in Age will effect the insurance charge. 
 <p align="center">
   <img src="Insurance_Hitmap.png" width="80%" alt="accessibility text">
 </p>
 
-#### :high_brightness:  Bar Plot
+#### :high_brightness:  Bar Plot. From the plot below we can conclude these dataset has outlier. 
 <p align="center">
   <img src="Insurance_Histogram.png" width="80%" alt="accessibility text">
 </p>
