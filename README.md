@@ -11,6 +11,11 @@
   <img src="Insurance_Bottom_5_rows.png" width="80%" alt="accessibility text">
 </p>
 
+### Calculate Correlation
+<p align="center">
+  <img src="Insurance_data_Correlation.png" width="80%" alt="accessibility text">
+</p>
+
 ### Identify Quantile
 <p align="center">
   <img src="Quantile Identify.png" width="80%" alt="accessibility text">
@@ -41,11 +46,3 @@
 <p align="center">
   <img src="Insurance_boxplot.png" width="80%" alt="accessibility text">
 </p>
-
-
-### Number of Film Per Studio on Bar Plot
-<p align="center">
-  <img src="Insurance_data_Correlation.png" width="80%" alt="accessibility text">
-</p>
-
-
