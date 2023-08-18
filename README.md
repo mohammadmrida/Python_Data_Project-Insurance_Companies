@@ -1,35 +1,34 @@
 # Data Analysis Using Python
 ## Project Name: Insurance Companies
 
+### Top 5 rows of data
+<p align="center">
+  <img src="Insurance_Top_5_rows.png" width="80%" alt="accessibility text">
+</p>
 
-### Scatter Plot to Compare Average Rotten Tomato Rating Per Leading Studio
+### Bottom 5 rows of data
 <p align="center">
   <img src="Insurance_Bottom_5_rows.png" width="80%" alt="accessibility text">
 </p>
 
-### Rotten Tomato Ratings on Histogram Plot
+### Average insurance charge per region
 <p align="center">
   <img src="Insurance_Bar.png" width="80%" title="hover text">
 </p>
 
-### Audience Score on Histogram Plot
+### Correlation hitmap - between key observations
 <p align="center">
   <img src="Insurance_Hitmap.png" width="80%" alt="accessibility text">
 </p>
 
-### Number of Film Per Year on Bar Plot
+### Bar Plot
 <p align="center">
   <img src="Insurance_Histogram.png" width="80%" alt="accessibility text">
 </p>
 
-### Audience Score Density
+### Box Plot
 <p align="center">
   <img src="Insurance_boxplot.png" width="80%" alt="accessibility text">
-</p>
-
-### Number of Film Per Genre on Histogram Plot
-<p align="center">
-  <img src="Insurance_Top_5_rows.png" width="80%" alt="accessibility text">
 </p>
 
 
@@ -44,12 +43,12 @@
 </p>
 
 
-### Number of Film Per Studio on Bar Plot
+### Identify Quantile
 <p align="center">
   <img src="Quantile Identify.png" width="80%" alt="accessibility text">
 </p>
 
-### Number of Film Per Studio on Bar Plot
+### Common Statistical Analysis
 <p align="center">
   <img src="Insurance_Statistical Anaysis.png" width="100%" alt="accessibility text">
 </p>
