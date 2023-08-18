@@ -8,7 +8,7 @@
 #### :clipboard: <strong>Sample Data:</strong> Insurance Company Charges
 #### :clipboard: <strong>Sample Size:</strong> 1337 rows of data
 #### :clipboard: <strong>Observation (Column):</strong> Data set contained 7 obeservations - Age, Sex, BMI, Children, Smoker, Region, and Charges
-#### :bar_chart: <strong>ETL Tools:</strong> Excel, Python, Pandas, Matplotlib, Seaborn
+#### :bar_chart: <strong>ETL and Visualisation Tools:</strong> Excel, Python, Pandas, Matplotlib, Seaborn
 
 <br>
 
