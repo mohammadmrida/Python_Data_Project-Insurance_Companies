@@ -52,12 +52,12 @@
 ### :mag_right: Key Findings:
 #### :high_brightness:  Following Bar Chart shows average insurance charge per region. Southeast region has the highest insurnace charge on average. 
 <p align="center">
-  <img src="Insurance_Bar.png" width="80%" title="hover text">
+  <img src="Insurance_Bar.png" width="60%" title="hover text">
 </p>
 
 #### :high_brightness:  Correlation hitmap - between key observations. Age and Insurance charge has positive correlation of 0.3, but not perfectly positive correlation. So any changes in Age will have effect on the insurance charges. 
 <p align="center">
-  <img src="Insurance_Hitmap.png" width="80%" alt="accessibility text">
+  <img src="Insurance_Hitmap.png" width="60%" alt="accessibility text">
 </p>
 
 #### :high_brightness:  Bar Plot. Number of insurance charges per Age Group, BMI Group, No of Children Group, and Charges Group  
