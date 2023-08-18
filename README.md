@@ -3,6 +3,9 @@
 <p>
 </p>
 
+<strong>Data:</strong> Insurance company charges</br>
+<strong>Sample Size:</strong> 1337 rows of data</br>
+<strong>Observations:</strong> total 7 observations, including age, sex, bmi, children, smoker, region, and charges
 
 ### Top 5 rows of data
 <p align="center">
