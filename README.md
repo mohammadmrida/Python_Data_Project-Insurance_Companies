@@ -65,7 +65,7 @@
   <img src="Insurance_Histogram.png" width="80%" alt="accessibility text">
 </p>
 
-### Box Plot. From this plot below we can conclude these dataset has outlier.
+#### :high_brightness: Box Plot. From this plot below we can conclude these dataset has outlier.
 <p align="center">
   <img src="Insurance_boxplot.png" width="80%" alt="accessibility text">
 </p>
