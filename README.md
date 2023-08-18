@@ -20,22 +20,22 @@
 
 
 <p align="center">
-  <img src="Insurance_Top_5_rows.png" width="80%" alt="accessibility text">
+  <img src="Insurance_Top_5_rows.png" width="60%" alt="accessibility text">
 </p>
 
 #### :high_brightness:  Bottom 5 rows of data
 <p align="center">
-  <img src="Insurance_Bottom_5_rows.png" width="80%" alt="accessibility text">
+  <img src="Insurance_Bottom_5_rows.png" width="60%" alt="accessibility text">
 </p>
 
 #### :high_brightness:  Calculate Correlation. Age and Insurance charge has positive correlation of 0.3, but not perfectly positive correlation. So any changes in Age will have effect on the insurance charges.
 <p align="center">
-  <img src="Insurance_data_Correlation.png" width="80%" alt="accessibility text">
+  <img src="Insurance_data_Correlation.png" width="60%" alt="accessibility text">
 </p>
 
 #### :high_brightness:  Identify Quantile
 <p align="center">
-  <img src="Quantile Identify.png" width="80%" alt="accessibility text">
+  <img src="Quantile Identify.png" width="60%" alt="accessibility text">
 </p>
 
 #### :high_brightness:  Common Statistical Analysis
