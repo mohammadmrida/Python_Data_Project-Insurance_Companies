@@ -5,10 +5,10 @@
 
 
 ### Summary
-#### <strong>Sample Data:</strong> Insurance Company Charges
-#### <strong>Sample Size:</strong> 1337 rows of data
-#### <strong>Observation (Column):</strong> Data set contained 7 obeservations - Age, Sex, BMI, Children, Smoker, Region, and Charges
-#### <strong>ETL Tools:</strong> Excel, Python, Pandas, Matplotlib, Seaborn
+#### * <strong>Sample Data:</strong> Insurance Company Charges
+#### * <strong>Sample Size:</strong> 1337 rows of data
+#### * <strong>Observation (Column):</strong> Data set contained 7 obeservations - Age, Sex, BMI, Children, Smoker, Region, and Charges
+#### * <strong>ETL Tools:</strong> Excel, Python, Pandas, Matplotlib, Seaborn
 
 
 ### Top 5 rows of data
