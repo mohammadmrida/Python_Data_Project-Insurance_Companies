@@ -10,12 +10,11 @@
 #### :clipboard: <strong>Observation (Column):</strong> Data set contained 7 obeservations - Age, Sex, BMI, Children, Smoker, Region, and Charges
 #### :bar_chart: <strong>ETL Tools:</strong> Excel, Python, Pandas, Matplotlib, Seaborn
 
-<p>
-</p>
+<br>
 
-<p>
-</p>
-
+<br>
+  
+(---)
 ### :mag_right: EDA - Exploratory Data Analysis:
 #### :high_brightness:  Top 5 rows of data
 
