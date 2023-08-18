@@ -51,6 +51,6 @@
 
 ### Number of Film Per Studio on Bar Plot
 <p align="center">
-  <img src="Insurance_Statistical Analysis.png" width="100%" alt="accessibility text">
+  <img src="Insurance_Statistical Anaysis.png" width="100%" alt="accessibility text">
 </p>
 
