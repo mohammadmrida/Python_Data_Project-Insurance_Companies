@@ -43,6 +43,12 @@
   <img src="Insurance_Statistical Anaysis.png" width="100%" alt="accessibility text">
 </p>
 
+<br>
+
+<br>
+  
+(---)
+
 ### :mag_right: Key Findings:
 #### :high_brightness:  Following Bar Chart shows average insurance charge per region. Southeast region has the highest insurnace charge on average. 
 <p align="center">
