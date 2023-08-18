@@ -48,12 +48,12 @@
   <img src="Insurance_Hitmap.png" width="80%" alt="accessibility text">
 </p>
 
-#### :high_brightness:  Bar Plot. From the plot below we can conclude these dataset has outlier. 
+#### :high_brightness:  Bar Plot. Number of insurance charges per Age group, BMI,  
 <p align="center">
   <img src="Insurance_Histogram.png" width="80%" alt="accessibility text">
 </p>
 
-### Box Plot
+### Box Plot. From this plot below we can conclude these dataset has outlier.
 <p align="center">
   <img src="Insurance_boxplot.png" width="80%" alt="accessibility text">
 </p>
